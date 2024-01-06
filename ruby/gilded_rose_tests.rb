@@ -8,3 +8,4 @@ class TestGildedRose < Minitest::Test
     assert_equal "fixme", items[0].name
   end
 end
+
